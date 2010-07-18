@@ -1,0 +1,3 @@
+[submodule "lib/ID.js"]
+	path = lib/ID.js
+	url = git://github.com/kirbysayshi/ID.js.git
